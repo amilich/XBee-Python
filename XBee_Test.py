@@ -8,6 +8,7 @@ import matplotlib.animation as animation
 
 """
 	XBee communication and datalogging via Python application. 
+		Processing? 
 
 	See https://gist.github.com/electronut/d5e5f68c610821e311b0/ 
 """
